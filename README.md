@@ -1,2 +1,2 @@
-# nodejs-aws-cli
-Docker image with node js and AWS CLI
+# node-aws-cli
+Docker image with the latest Node.js version and the AWS CLI
